@@ -43,6 +43,7 @@ Partial Class Form1
         Me.Button2.TabIndex = 1
         Me.Button2.Text = "Button2"
         Me.Button2.UseVisualStyleBackColor = True
+        Asc =;
         '
         'Form1
         '
