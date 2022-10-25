@@ -1,0 +1,7 @@
+C:\Desarrollo\pruebasTeamcity\pruebasTeamcity\pruebasTeamcity\bin\Debug\pruebasTeamcity.exe.config
+C:\Desarrollo\pruebasTeamcity\pruebasTeamcity\pruebasTeamcity\bin\Debug\pruebasTeamcity.exe
+C:\Desarrollo\pruebasTeamcity\pruebasTeamcity\pruebasTeamcity\bin\Debug\pruebasTeamcity.pdb
+C:\Desarrollo\pruebasTeamcity\pruebasTeamcity\pruebasTeamcity\obj\Debug\pruebasTeamcity.csproj.AssemblyReference.cache
+C:\Desarrollo\pruebasTeamcity\pruebasTeamcity\pruebasTeamcity\obj\Debug\pruebasTeamcity.csproj.CoreCompileInputs.cache
+C:\Desarrollo\pruebasTeamcity\pruebasTeamcity\pruebasTeamcity\obj\Debug\pruebasTeamcity.exe
+C:\Desarrollo\pruebasTeamcity\pruebasTeamcity\pruebasTeamcity\obj\Debug\pruebasTeamcity.pdb
