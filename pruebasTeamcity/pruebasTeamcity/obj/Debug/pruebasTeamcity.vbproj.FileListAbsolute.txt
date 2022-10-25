@@ -9,3 +9,4 @@ C:\Desarrollo\pruebasTeamcity\pruebasTeamcity\pruebasTeamcity\obj\Debug\pruebasT
 C:\Desarrollo\pruebasTeamcity\pruebasTeamcity\pruebasTeamcity\obj\Debug\pruebasTeamcity.exe
 C:\Desarrollo\pruebasTeamcity\pruebasTeamcity\pruebasTeamcity\obj\Debug\pruebasTeamcity.xml
 C:\Desarrollo\pruebasTeamcity\pruebasTeamcity\pruebasTeamcity\obj\Debug\pruebasTeamcity.pdb
+C:\Desarrollo\pruebasTeamcity\pruebasTeamcity\pruebasTeamcity\obj\Debug\pruebasTeamcity.Form1.resources

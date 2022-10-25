@@ -43,7 +43,7 @@ Partial Class Form1
         Me.Button2.TabIndex = 1
         Me.Button2.Text = "Button2"
         Me.Button2.UseVisualStyleBackColor = True
-        Asc =;
+
         '
         'Form1
         '
@@ -54,6 +54,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form1"
         Me.Text = "Form1"
+        Me.Text = "AQUI"
         Me.ResumeLayout(False)
 
     End Sub
